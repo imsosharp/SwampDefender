@@ -20237,11 +20237,14 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.acts.CreateObject,
 	cr.system_object.prototype.exps.random,
+	cr.system_object.prototype.exps.windowwidth,
+	cr.system_object.prototype.exps.windowheight,
 	cr.plugins_.progressbar.prototype.acts.SetProgress,
 	cr.plugins_.Text.prototype.cnds.CompareInstanceVar,
 	cr.plugins_.Text.prototype.acts.SetInstanceVar,
 	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
 	cr.plugins_.Sprite.prototype.cnds.OnCreated,
-	cr.plugins_.Sprite.prototype.acts.AddInstanceVar
+	cr.plugins_.Sprite.prototype.acts.AddInstanceVar,
+	cr.plugins_.Mouse.prototype.cnds.OnClick
 ];};
 
