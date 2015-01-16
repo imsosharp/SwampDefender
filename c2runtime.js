@@ -20245,6 +20245,9 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
 	cr.plugins_.Sprite.prototype.cnds.OnCreated,
 	cr.plugins_.Sprite.prototype.acts.AddInstanceVar,
-	cr.plugins_.Mouse.prototype.cnds.OnClick
+	cr.plugins_.Mouse.prototype.cnds.OnClick,
+	cr.plugins_.Sprite.prototype.acts.SetAnimFrame,
+	cr.plugins_.Audio.prototype.acts.PlayByName,
+	cr.plugins_.Audio.prototype.acts.Play
 ];};
 
