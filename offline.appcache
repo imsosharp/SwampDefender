@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1421426509
+#1421431541
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -18,6 +18,7 @@ images/sprite10-sheet1.png
 images/sprite11-sheet0.png
 images/sprite12-sheet0.png
 images/sprite13-sheet0.png
+images/sprite14-sheet0.png
 media/hitmarker.m4a
 media/hitmarker.ogg
 media/swmap.m4a
